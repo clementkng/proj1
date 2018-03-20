@@ -18,3 +18,4 @@ If the Create Pokemon fails, then the code will show the error thrown from valid
 This was a pretty difficult project, especially with the routes needing to be ordered a certain way to function properly and bcrypt bugs. However, I don't think I was able to learn the Week 4 and 5 materials too well because I was sick, and once I got the project working things seemed more clear. Potentially a check-in of some sort would have been helpful, as my pacing was poor due to sickness.  
 
 # Extra credit: Link your Heroku deployed app
+https://github.com/clementkng/proj1
